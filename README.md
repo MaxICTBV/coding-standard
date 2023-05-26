@@ -1,0 +1,1 @@
+# MaxICT Coding Standard
